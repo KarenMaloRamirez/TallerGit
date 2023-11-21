@@ -1,0 +1,3 @@
+en el dia de hoy los temas tratados son:
+sistema de control de versiones
+ramas como ingnorar archivos para no ser comprometidos en el area de trabajo, cambiar ramas y volver al principal
